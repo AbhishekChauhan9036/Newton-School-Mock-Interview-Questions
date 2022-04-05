@@ -1,0 +1,13 @@
+DSA 2-> Challenge Level
+
+
+1. given a singly linkedlist, remove the duplicates.
+input --
+1, 2, 3, 4, 4, 5
+output -- 
+1, 2, 3, 4, 5
+2. given a singly linkedlist, find first non repeating character.
+input --
+5, 6, 5, 3, 4, 6
+output --
+the first non repeating --  3

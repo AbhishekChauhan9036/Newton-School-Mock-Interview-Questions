@@ -1,0 +1,5 @@
+DSA 1-> Hard Level
+
+1. Find missing number from array.
+2. Find missing and repeating number.
+3. Find sum of 3 element pairs

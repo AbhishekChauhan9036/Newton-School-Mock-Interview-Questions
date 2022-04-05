@@ -1,0 +1,4 @@
+DSA 1-> Challenge Level
+
+Given an array from elements in the range of 1  to n. The array has all distinct numbers with n - 2 elements. Find the two missing elements.
+ Given an array of integers, find the first repeating element in it. We need to find the element that occurs more than once and whose index of the first occurrence is smallest.

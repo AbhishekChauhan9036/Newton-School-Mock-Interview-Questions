@@ -1,0 +1,6 @@
+DSA-1->Medium Level
+
+Check Palindrome in a string
+Quick Sort
+Merge Sort
+Remove duplicates from a string

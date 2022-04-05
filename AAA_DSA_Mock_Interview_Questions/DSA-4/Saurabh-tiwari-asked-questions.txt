@@ -1,0 +1,11 @@
+DSA 4-> Medium Level
+
+Tree---------
+1. Find LCA of two nodes in a tree
+
+Graph-------
+1. BFS/DFS
+2. Detecting cycle in graph
+3. Given a graph and a source vertex in the graph, find the shortest paths from source to all vertices in the given graph.
+4. Bridges in graph
+5. Find BFS traversal of a graph

@@ -1,0 +1,6 @@
+DSA 3-> Easy Level
+
+
+1. Find fibbonacci number using recursion
+2. Find fibbonacci number using dynamic programming
+3. Check if a number is palindrome or not by recursion

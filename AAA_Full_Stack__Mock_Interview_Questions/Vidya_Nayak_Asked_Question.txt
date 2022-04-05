@@ -1,0 +1,7 @@
+Mock Full Stack 1 -> Easy Level
+
+What are the new FORM elements which are available in HTML5? 
+What is the difference between HTML elements and tags? 
+What is JavaScript hoisting? 
+What is promises in JavaScript? 
+Write a program in JavaScript to check if a string is palindrome or not

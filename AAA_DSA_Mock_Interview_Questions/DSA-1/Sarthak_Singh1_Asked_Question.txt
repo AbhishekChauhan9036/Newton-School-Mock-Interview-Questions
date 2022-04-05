@@ -1,0 +1,8 @@
+DSA 1-> Hard Level
+
+- sort the given array of zero's, one's and two's in a way that all the zero comes first, then the two's and then the one's.
+arr = [ 0,1,0,2,1,2,0]
+
+-Given two arrays A1[] and A2[], sort A1 in such a way that the relative order among the elements will be same as those are in A2. For the elements not present in A2, append them at last in sorted order. 
+A1[] = {2, 1, 2, 5, 7, 1, 9, 3, 6, 8, 8}
+A2[] = {2, 1, 8, 3}

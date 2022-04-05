@@ -1,0 +1,4 @@
+DSA 1->Hard Level
+
+1. Find Missing number
+2. Find Missing and repeating number

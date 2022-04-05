@@ -1,0 +1,14 @@
+DSA 2-> Hard Level
+
+1) WAP to check the linked list is palindrome or not ?
+
+
+2) Problem Statement: Given a set of strings, find the longest common prefix.
+Examples: 
+ 
+
+Input: {"geeksforgeeks", "geeks", "geek", "geezer"}
+Output: "gee"
+
+Input: {"apple", "ape", "april"}
+Output: "ap"

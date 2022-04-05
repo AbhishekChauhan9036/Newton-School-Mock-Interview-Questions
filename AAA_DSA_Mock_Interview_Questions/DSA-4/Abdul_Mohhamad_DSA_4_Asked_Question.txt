@@ -1,0 +1,13 @@
+DSA 4-> Easy Level
+
+1. What is DP  -> answered
+2. What is the use of DP -> answered
+
+[Easy] : Min Cost Climbing Stairs
+https://leetcode.com/problems/min-cost-climbing-stairs/
+[DONE]
+
+[Easy] :  Diameter of Binary Tree
+https://leetcode.com/problems/diameter-of-binary-tree/
+[DONE]
+ 

@@ -1,0 +1,10 @@
+Mock Full Stack 1 -> Medium Level
+
+
+1. What are inline elements. Create a div tag and span tag and give it red background and then can you what you will observe in you browser. 
+2. What is arrow functions 
+3. What is anonymous function ? 
+4. Create a box? Center align a box.
+ 5. What are map and filter and show me the examples. 
+6. What are Closures.
+ 7. Difference between let, var and const.

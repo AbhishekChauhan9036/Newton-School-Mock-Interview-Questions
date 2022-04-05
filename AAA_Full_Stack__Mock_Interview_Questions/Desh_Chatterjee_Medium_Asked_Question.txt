@@ -1,0 +1,6 @@
+Mock Full Stack 1 -> Medium Level
+
+Create a layout Closure in javascript 
+What is IIFE What is callback 
+What is promise 
+What is hoisting

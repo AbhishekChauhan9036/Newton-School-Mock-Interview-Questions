@@ -1,0 +1,18 @@
+DSA 1 ->Easy Level
+
+
+1. explain and implement insertion sort -- implemented bubble sort
+2. given a string, print length of its each word. --solved
+input --
+this is a string
+output --
+this 4
+is 2
+a 1
+string 6
+3. reverse a given string -- solved
+4. given an array, remove its duplicates.
+input --
+1, 2, 2, 3, 4, 5, 5
+output --
+1, 2, 3, 4, 5

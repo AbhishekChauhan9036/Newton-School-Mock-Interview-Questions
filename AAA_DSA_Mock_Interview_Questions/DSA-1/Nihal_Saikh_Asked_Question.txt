@@ -1,0 +1,11 @@
+DSA-1->Easy Level
+
+(1) Given an unsorted array of both negative and positive integer. The task is place all negative element at the end of array without changing the order of positive element and negative element. 
+Examples: 
+ 
+
+Input : arr[] = {1, -1, 3, 2, -7, -5, 11, 6 }
+Output : 1  3  2  11  6  -1  -7  -5 
+
+
+(2) Implement Binary Search on Array

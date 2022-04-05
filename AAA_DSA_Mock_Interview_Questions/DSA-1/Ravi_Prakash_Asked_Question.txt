@@ -1,0 +1,9 @@
+DSA 1->Challenge Level
+
+
+- Write a code swap two words
+eg: "Hello World" O/p - "World Hello"
+
+- Find the Kth largest element in a array.
+
+- Create a function that returns the index of elements whose sum are equal to the target number.

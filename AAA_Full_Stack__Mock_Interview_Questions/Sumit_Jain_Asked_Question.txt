@@ -1,0 +1,5 @@
+Mock Full Stack 1 -> Medium Level
+
+1.Create a box with some background color using html and css. 
+2.Centre the box horizontally and vertically. 
+3.Create a form using html, css, javascript which contains input tags like radio, text, password, email, number, button with js validation.

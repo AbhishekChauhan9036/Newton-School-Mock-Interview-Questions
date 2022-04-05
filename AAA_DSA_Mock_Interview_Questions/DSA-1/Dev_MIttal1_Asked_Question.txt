@@ -1,0 +1,4 @@
+DSA 1-> Medium Level
+
+1. Write a code that will print the max element in the right side for every element of a given array.
+2. Merge sort.

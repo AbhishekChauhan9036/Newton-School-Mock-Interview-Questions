@@ -1,0 +1,6 @@
+DSA 2->Challenge Level
+
+WAP to check the linked list is palindrome or not
+
+Write a program that takes a list sorted in non-decreasing order and deletes any duplicate nodes from the list. The list should only be traversed once. 
+For example if the linked list is 11->11->11->21->43->43->60 then removeDuplicates() should convert the list to 11->21->43->60.

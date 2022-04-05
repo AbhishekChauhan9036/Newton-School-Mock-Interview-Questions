@@ -1,0 +1,6 @@
+Mock Full Stack 1 -> Easy Level
+
+
+What is a webpage?
+ How to create a good webpage? 
+Create a sample page that needs to have two separate sections

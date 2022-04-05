@@ -1,0 +1,7 @@
+DSA 1-> Challenge Level
+
+- write a code for Fibonacci series 
+
+- write code code to print number of times each character occur in a string 
+
+- Shift all zeros in a array to right

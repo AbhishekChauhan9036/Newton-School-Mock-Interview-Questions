@@ -1,0 +1,7 @@
+DSA-1->Begginer Level
+
+1. Reverse an array
+2. Find an element in the array
+3. What is palindrome
+4. Check if string is palindrome or not
+5. What is bubble sort?

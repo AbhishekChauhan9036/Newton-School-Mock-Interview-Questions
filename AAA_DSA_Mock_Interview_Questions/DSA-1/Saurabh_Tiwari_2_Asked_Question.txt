@@ -1,0 +1,4 @@
+DSA 1->Hard Level
+
+1. Find the pairs in an array which sums to target
+2. Check if two strings are anagram or not

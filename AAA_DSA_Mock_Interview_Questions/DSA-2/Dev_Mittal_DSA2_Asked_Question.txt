@@ -1,0 +1,4 @@
+DSA 2-> Medium Level
+
+1. Find the number of elements smaller than a given number in a sorted array.
+2. Write a class for linked list and create a sample linked list using O(n) time.

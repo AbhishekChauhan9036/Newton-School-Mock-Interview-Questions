@@ -1,0 +1,18 @@
+DSA 1->Medium Level
+
+
+1. given an array and a k, find the pairs which will add upto a given k
+input --
+12, 3, 7, 6, 9, 8
+k = 20
+output --
+12, 3
+7, 8
+6, 9
+
+2. given a string, write the logic for compressing it
+input --
+input --
+aaabbcccddeef
+output --
+a3b2c3d2e2f

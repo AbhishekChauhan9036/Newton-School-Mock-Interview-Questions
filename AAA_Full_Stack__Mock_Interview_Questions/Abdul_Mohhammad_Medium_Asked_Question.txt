@@ -1,0 +1,38 @@
+Full Stack Mock 1-> Medium Level
+
+1. What is HTML -> answered
+2. What is the structure of HTML page -> answered
+3. What is the use of head tag -> answered 
+4. Use of Doctype -> answered
+5.. What happens when DOCTYPE is not given? -> answered 
+6.  Datalist Tag - not answered 
+7. Diff btw link and anchor -> answered 
+8.  what is Meter Tag -> not answered 
+9. what is the diff btw inline element and block elements in HTML give example of them -> answered
+10. What are semantic and non-semantic elements?
+11. What is the use of semantic tags -> answered 
+12. Describe the difference between a cookie, sessionStorage and localStorage? -> partially answered 
+13. memory limit localStorage /sessionStorage  / cookie -> partialy 
+14.  How to improve the performance -> partially answered 
+15 . What is attribute in HTML 
+16.  Create a simple simple form with three field 
+-> Name field 
+*mandatory 
+*alphanumeric
+-> age 
+min : 10 max: 80
+should accept only number 
+-> Country 
+-Dropdown (select)
+
+[partially] 
+
+17 . How to create a zebra striped table with CSS? 
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+18. What is sudo element -> answered 
+19 . What is the Box model in CSS? Which CSS properties are a part of it? -> answered 
+20 . how to link  js WIth HTML 
+21.  Async and defer -> in js -> not answered 
+

@@ -1,0 +1,28 @@
+DSA 3-> Hard Level
+
+
+
+1)  - "Ladder Problem
+Given a ladder of size N and interger K, write a function to compute number of ways to climb the ladder if you can take a jummp of almost K at every step
+
+Input - 
+ N = 4
+ K = 2
+output = 5
+Explaination - (1, 1, 1, 1), (1, 1, 2), (2, 1, 1), (1, 2, 1), (2, 2) "
+
+
+
+
+2) - "Box Stacking
+We are given an array of boxes. Each boxes is represented using 3 integers denoting width, depth and height of the box. Our goal is stack up the boxes and maximize the total height of the stack
+You can't rotate any box, ie interers in each box must represent [width, depth, height] at all times
+A box must have strictly smaller width, depth and height than any other box below it.
+
+Input
+Boxes = [[2,1,2],[3,2,3][2,2,8],[2,3,4],[2,2,1],[4,4,5]]
+Output - 10
+Explaination: We can stack 3 goxes to get height 10
+[2,1,2]
+[3,2,3]
+[4,4,5]"

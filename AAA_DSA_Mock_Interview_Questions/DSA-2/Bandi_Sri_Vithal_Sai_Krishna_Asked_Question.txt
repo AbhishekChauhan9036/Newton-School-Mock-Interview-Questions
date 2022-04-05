@@ -1,0 +1,23 @@
+DSA 2->Medium Level
+
+
+1) What is Data Structure? Explain.
+2) Describe the types of Data Structures?
+3) List the area of applications of Data Structure.
+4) Explain Linked List in short.
+5) How many types of Linked List exist?
+6) Explain a Singly Linked List in short.
+7) What do you understand about the Doubly Linked List?
+8) Explain a Multiply Linked List in short.
+9) How will you explain the Circular Linked List?
+10) How many pointers are necessary to implement a singly Linked List?
+11) How can you represent a linked list node?
+12) Which type of memory allocation is referred to for Linked List?
+13) What do you know about traversal in linked lists?
+14) What are the main differences between the Linked List and Linear Array?
+15) Mention a few applications of Linked Lists?
+16) What are the advantages of linked lists?
+17) explain binary search?
+18) explain linear search?
+19) Write a program for Given a linked list, write a function to reverse every alternate k nodes (where k is an input to the function) in an efficient way. Give the complexity of your algorithm.
+Inputs: 1->2->3->4->5->6->7->8->9->NULL and k = 3

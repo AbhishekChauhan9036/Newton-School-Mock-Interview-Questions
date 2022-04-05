@@ -1,0 +1,11 @@
+Full STack Mock 1 -> Medium Level
+
+Why to use HTML? 
+Different tags and attributes in HTML? 
+Ordered and Unordered list Excercise - design table using div and span Use of Article Tag What does . or # represpect in CSS? 
+Whats the use of font-family, z-index, opacity? 
+Different between margin and padding tag? 
+What are the ways to implement css in HTML?
+ Why to use Javascript? What are the ways to trigger click event? 
+How will we call ID or class in JS? 
+Exercise - Create a sample button and whenever user types Good then we need to receive alert.

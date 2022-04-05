@@ -1,0 +1,6 @@
+DSA 3-> Medium level
+
+
+1. Max sum without any two adjacent elements in an array.
+2. Implement power function in logn time.
+3. Print all the numbers that can be created using 1, 3 and 6 as the only digits.

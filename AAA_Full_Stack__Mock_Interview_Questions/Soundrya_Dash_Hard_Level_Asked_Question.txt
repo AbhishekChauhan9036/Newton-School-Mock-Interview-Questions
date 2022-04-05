@@ -1,0 +1,21 @@
+Full Stack Mock  1-> Hard Level
+
+1. Asynchronous call -- answered with real time example
+2. Javascript promise -- answered a bit
+3. call back function in JS --  answered with example
+4. localStorage and sessionStorage -- answered a bit
+5. rest parameter and spread operator -- answered rest parameter with example 
+6. Guess the output --
+
+console.log(1>2>3); 
+console.log(3>2>1);
+
+function foo() {
+  let a = b = 0;
+  a++;
+  return a;
+}
+foo();
+typeof a;
+typeof b;
+7. create a product form which will take product name, product description, cost price and discount and calculate the discounted price

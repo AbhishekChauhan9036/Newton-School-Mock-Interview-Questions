@@ -1,0 +1,6 @@
+Mock Full Stack 1 -> Hard Level
+
+Sematic Tags in HTML ,
+ Example Local storage vs Session Storage 
+HTML5 new features/tags link vs anchor tag async and defer keywords == vs === Hoisting in Js call stack, 
+call back queue var vs let JS output based questions

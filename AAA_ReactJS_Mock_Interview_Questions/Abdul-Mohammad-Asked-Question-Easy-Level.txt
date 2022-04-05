@@ -1,0 +1,16 @@
+Mock ReactJs--> Easy Level
+
+1. What is React ->  answered
+2. What are features of react -> answered 
+3. What is JSX -> Answered 
+4. What are diff properties we have on JSX element -> Partially answered 
+5. What is virtual dom -> partially answered
+6. What is state in react -> answered
+7.What are props -> Answered
+8. What does a components mean react -> answered
+9.What does a components return -> not answered
+10. What are the diff types of components we have -> answered
+11. What is diff btw class based component and function Components -> not answered
+12. Life cycle of a component in react  -> answered
+13. What are diff methods we can use on each phase of lifecycle of component -> partially answered 
+14. implement a simple counter Componet with View , And controls -> 

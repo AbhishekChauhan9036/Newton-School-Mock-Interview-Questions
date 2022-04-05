@@ -1,0 +1,22 @@
+Full STack Mock 1-> Hard Level
+
+
+
+1.	What is CSS box model? 
+2.	What is the difference between “display: none” and “visibility: hidden” 
+3.	What are inline and block level elements?  
+4.	check if the number is the integer
+5.	Difference between undefined variable value and null variable value. 
+6.	Difference between === or == 
+7.	What are event listeners? 
+8.	Write a program to swap two string variables
+9.	Create a table with html and add css to it 
+10.	Describe HTML layout structure 
+11.	Three Ways to Insert CSS 
+12.	async and await 
+13.	DOM 
+14.	Promises 
+15.	create HTML button with pop up box 
+16.	function   
+17.	dataTypes
+18.	Type Conversion 

@@ -1,0 +1,7 @@
+DSA-1->Easy Level
+
+1. print your name in reverse order.
+2. print your name in reverse order using recursion.
+3. print the sum of all the +ve integers from an array A={12,34,-20,44,-10,56,-2,86,12}.
+4. Sorting only the positive numbers from an array A={12,34,-20,44,-10,56,-2,86,12},
+output: {12,12,-20,34,-10,44,-2,56,86}

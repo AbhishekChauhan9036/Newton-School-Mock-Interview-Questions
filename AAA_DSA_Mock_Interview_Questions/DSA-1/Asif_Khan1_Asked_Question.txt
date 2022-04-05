@@ -1,0 +1,10 @@
+DSA 1->Medium Level
+
+1. Write a program to find the length longest palindromic substring from given string.
+Ex: "babac"
+O/P: 3 (aba,bab) both are valid answers.
+
+2. Given a array where every element is repeated twice except one find that number.
+
+Ex: 1 1 2
+O/P: 2

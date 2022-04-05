@@ -1,0 +1,9 @@
+DSA-1->Easy Level
+
+
+discussed questions.
+1. Hello World 
+2. No. Of elements smaller than K in an array and optimisation
+3. Merge Sort working of Algorithm
+4. Pallindrome and Anagram Optimized Approach 
+5. Space and time complexity discussion on  all sorting algos and all above problems.

@@ -1,0 +1,7 @@
+DSA-1->Medium Level
+
+1. Explain insertion sort
+2. Implement insertion sort
+3. reverse a string with its words
+4. implement code to check if a string is palindrome or not
+4. longest string without any repeating character

@@ -1,0 +1,14 @@
+Mock ReactJs--> Medium Level
+
+what is react and how its work? --answered
+what is virtual dom and how its work? --  answered
+what is the difference between state and props? --answered
+why we can't update state directly? -- not answered
+Explain the difference between functional and class components.? -- answered
+explain life cycle method?-- answered
+how can we implement life cycle methods in function components? --not   answered
+What are the controlled components and uncontrolled components in React?  --semi  answered
+Why do we need a Router in React?-- answered
+What are Pure Components?--  answered
+pass the data as props? -- answered
+create three input field and show the values on click button ? -- answered

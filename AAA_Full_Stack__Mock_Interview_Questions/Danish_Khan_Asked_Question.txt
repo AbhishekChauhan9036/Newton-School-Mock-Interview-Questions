@@ -1,0 +1,17 @@
+Mock Full Stack 1 -> Easy Level
+
+
+- What is html.//[Answered Correctly] -
+ what are tags and attribute.//[Answered Correctly] - 
+What is DOCTYPE in Html.// [Partially Correct answer] - 
+What is meta data in Html.// [Partially Correct answer] - 
+what is css.//[Answered Correctly] 
+How to add CSS in Html.// [Partially Correct answer] -
+ ID vs Class selector.//[Answered Correctly] - 
+what are inline and block elements.//[Answered Correctly] - 
+Center a div inside of other div.//[Completed the task with some help]. -
+ What is js.//[Answered Correctly] - 
+What are the different data types present in javascript?//[Answered Correctly] - 
+dif b/w var,let and const.// [Partially Correct answer] - 
+Explain Hoisting in javascript.// [Partially Correct answer] - 
+output for :- var a; console.log(a); a=10;//[ Wrong Answer ]

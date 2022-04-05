@@ -1,0 +1,5 @@
+DSA 4-> Easy Level
+
+1. Print inprder,preorder and postorder of a tree
+2. Find an element in a tree
+3. difference between adjacency list and matrix

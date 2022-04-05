@@ -1,0 +1,9 @@
+DSA 2->Challenge Level
+
+
+- Advantages of using LinkedList over arrays?
+- What is the time complexity of insertion of element in LinkedList?
+- Given a Linked List check if the LinkedList contains a loop or not?
+- If yes return the starting node of the loop?? 
+
+?? - Questions he couldn't answer properly

@@ -1,0 +1,10 @@
+DSA 2-> Medium Level
+
+
+1. Difference between Linear search and binary search?
+2. Difference between Arrays and Linked list?
+3. Implementation of Queue using stack ?
+4. Check if the given list is palindrome or not?
+5. Reverse a linked list?
+6. For implementing a Linked List how many pointer are necessary ?
+7. What is stack and queue?
