@@ -1,0 +1,14 @@
+Mock ReactJs--> Medium Level
+
+
+1.  what do you know about the react? --- answered
+2.  life cycle phases in reactjs? --- answered.
+3.  which renders first in the mounting phase componentWillMount or componentDidMount? ---- partially answered.
+4. what comes in the order of Parent and child components in a mounting phase? ---- not answered.
+5.  Virtual DOM? --- answered.
+6. how do you send the data between parent to child, child to parent, and child to child. --- not answered
+7. Part1:: make a form with 2 input fields, 1 submit button, and 1 reset button. when we click on submit the data show the captured data in console.log and the reset button should reset whatever input we give in input fields, reset button should be disabled unless and until there are no values in 2 fields. Part2:: when you reload the page, the first input Field should focus, after finishing filling the focused input field. the focus has to go to the second Input Filed. ---- not answered.
+8. what is Conditional Rendering in React js? ---- not answered
+9. what do you know about react Router --- not answered
+9. What is "key" prop and what is the benefit of using it in arrays of elements? --- not answered.
+10.  what is state uplifting in react ? --- not answered.

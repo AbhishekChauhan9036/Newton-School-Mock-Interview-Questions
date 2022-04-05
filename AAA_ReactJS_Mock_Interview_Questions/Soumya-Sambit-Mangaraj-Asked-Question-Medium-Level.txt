@@ -1,0 +1,6 @@
+Mock ReactJs-> Medium Level
+
+How do you conditionally render components?				
+What are the lifecycle methods ordered in the mounting phase? Explain use of each.
+What is the use of use-ref?						 								
+Explain useCallback & useMemo. Explain React Optimisation techniques
