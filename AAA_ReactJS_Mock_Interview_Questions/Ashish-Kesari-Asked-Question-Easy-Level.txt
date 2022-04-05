@@ -1,0 +1,7 @@
+Mock React -> Easy Level
+
+What is Virtual DOM in React? - Answered
+What are lifecycle methods in React? – Answered
+What is the difference between a stateless and stateful component in React? – Not Answered
+What are React Hooks? – Answered
+Simple Counter APP in React - Was not able to implement

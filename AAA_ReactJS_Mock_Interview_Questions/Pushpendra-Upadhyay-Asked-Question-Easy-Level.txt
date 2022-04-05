@@ -1,0 +1,12 @@
+ReactJs-> Easy Level
+
+What is React?
+How does react work?
+What is virtual DOM?
+How does react knows that it needs to update the HTML DOM?
+What are state and props?
+What is the difference between state and props?
+How to pass data from child to parent?
+When does a react component re-renders?
+What are the basic differences between functional and class components?
+What are synthetic events?
