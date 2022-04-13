@@ -1,0 +1,6 @@
+Full Stack Mock -> Medium Level
+
+Questions asked were :-
+1) Questions mainly from Html css which includes mainly to create a header that is sticky into nature and after some scroll ups it becomes fixed.
+
+2)  I asked him questions from selectors , pseudo classes and elements too.

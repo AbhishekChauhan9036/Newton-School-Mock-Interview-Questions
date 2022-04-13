@@ -1,0 +1,50 @@
+Full Stack Mock-> Medium Level
+
+
+1. What happen when we enter a url in browser -> partially 
+2. Structure of HTMLpage  -> Answered
+3. What is use of Doctype - > Answered
+4. What happen you miss doctype -> Answered (can be better)
+5 . What is the use Head tag -> Answered 
+6. Diff tag you can add in Head HTML -> Answered 
+7. Diff btw anchor and link -> Answerd
+8. Features of HTML5 -> partialy
+9. what is the use of Form tag -> Answered
+10. Diff Form elements -> answered
+11. Simple form with three fields
+-name
+-- Mandatory
+--alphanumeric 
+-age 
+--Mandatory 
+
+-Answered
+12. What is attribute in HTML -> Answered
+13. What is use meta tag -> answered
+14. What is the use of dataList -> not answered
+15. How can you add css in HTML -> answered
+16. How to include External css -> answered
+17.  How to add internal Styles -> answered
+18. What is CSS cascading  -> Answerd
+19. What is a boxmodel in css -> Answerd
+20. Position property of  css -> Answerd
+21. Center a child div -> answered
+22.  Apply diff background color for even row  in a table
+23. What are pseudo class , pseudo  elements 
+24. What is diff btw padding and margin -> answered
+25. Diff btw vh and vw -> not answered
+26. Diff btw em rem px and pt -> not  answered
+27.  How to include JS  in HTMl -> answered
+28. OnLoad change some HTML -> not answered
+29. what is window object -> not answered
+30 what is a dom -> not answered
+31. What is CSSOM -> not answered
+32. How to add click  event on div using JS -> not answered
+33.What is event bubbling -> not answered
+34. What is event capturing -> answered
+35. When a page load fetch some data from api -> answered
+36.What is local storage -> not answered 
+37. What is hoisting in JS -> answered
+38. What is closure -> answered
+39. Example closure -> answered 
+40. what is the use asyn and defer

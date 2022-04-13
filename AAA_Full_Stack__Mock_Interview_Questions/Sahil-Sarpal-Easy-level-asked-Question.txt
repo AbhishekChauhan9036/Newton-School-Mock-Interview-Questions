@@ -1,0 +1,9 @@
+Full STack Mock -> Easy Level
+
+HTML Form - Answered / Correct
+JS Functions - Answered / Correct
+DOM Manipulation - Answered / Correct
+Event Listeners - Answered / Correct
+JS Exections - Answered / Correct
+CSS FLex- Answered / Correct
+CSS Properties - Answered / Correct
