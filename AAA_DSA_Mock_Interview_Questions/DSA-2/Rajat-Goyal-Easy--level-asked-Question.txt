@@ -1,0 +1,5 @@
+DSA 2-> Easy Level
+
+reverse a linkedlist [Ans]
+second half [Ans]
+parenthesis balanced[Ans]
