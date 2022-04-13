@@ -1,0 +1,20 @@
+DSA 1-> Medium Level
+
+1.Maximum count of distinct sized subarrays with given sum.
+
+Desc:--
+Given a binary array arr[] of N integers,
+the task is to find the maximum count of distinct sized
+subarrays such that the sum of each subarray is K.
+
+example:--
+Input: arr[] = {0, 1, 1 , 0}, K = 2
+Output: 3
+Explanation: The subset {{0, 1, 1, 0}, {0, 1, 1}, {1, 1}} is the subset of 3 subarrays such that the sum of each subarray is 2 and the size of each subarray is distinct. The subarray {1, 1, 0} also has sum 2 but a subarray of size 3 is already included.
+
+Input: arr[] = {0, 1, 0, 0, 0, 1 , 0}, K = 1
+Output: 5
+
+2. Sort only the positive numbers from an array A={12,34,-20,44,-10,56,-2,86,12},
+output: {12,12,-20,34,-10,44,-2,56,86}
+ keeping the index of the negative ones constant.
