@@ -1,0 +1,6 @@
+Full STack Mock ->  Hard Level
+
+Implementation : Create a simple Buddy List with add & delete functionalities
+Currying function
+Pure function
+Map vs forEach

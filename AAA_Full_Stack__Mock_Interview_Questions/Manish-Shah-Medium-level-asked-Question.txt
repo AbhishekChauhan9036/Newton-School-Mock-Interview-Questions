@@ -1,0 +1,10 @@
+Full Stack Mock -> Medium Level
+
+1.psuodo-element vs psuodo-classes.
+2.css display properties.
+3.css positions.
+4. different input fields in HTML.
+5.session-storage vs local-storage.
+6. flex vs grid.
+7. Explain different flex properties.
+6. implement an weight converter using html,css and js i.e https://drive.google.com/file/d/16lAOn8pI8r85UoNZiPuA3b6sGxm-MjQT/view

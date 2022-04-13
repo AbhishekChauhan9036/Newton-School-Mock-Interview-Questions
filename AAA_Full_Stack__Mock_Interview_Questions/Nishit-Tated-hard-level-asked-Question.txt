@@ -1,0 +1,6 @@
+Full STack Mock -> Hard Level
+
+1) Brief Intro about yourself.
+2) Any projects you have worked on, demonstrating your major skills?
+3) Create a registration form for users for a conference event using HTML & CSS. Add JS Validations in a form.
+4) Follow-up questions on above

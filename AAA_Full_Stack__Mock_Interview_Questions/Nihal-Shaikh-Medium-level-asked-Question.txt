@@ -1,0 +1,17 @@
+Full STack Mock-> Medium Level
+
+1) What is HTML ?
+ 2) Link Tag ?
+ 3) What is DOCTYPE ? 
+4) What are selectors in css ? 
+5) Display : none vs visibility : hidden ? 
+ - Inline vs block elements
+6) Attributes and property 7
+7) What is Tags ? 
+8) Code - hide/Show password in javascript 
+9) What do you all about javascript ? 
+10) What is Hoisting ? 
+11) What diff let , var , const ? 
+12) What are callback function ? 
+13) How this keyword works in javascript ?
+14) WAP to check the string is palindrome or not ?
