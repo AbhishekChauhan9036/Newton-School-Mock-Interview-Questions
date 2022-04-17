@@ -1,0 +1,22 @@
+Mock React-> Hard Level
+
+
+what is react js and advantages ? 
+what is jsx ? 
+why cant browser read jsx ? 
+what is the difference between real dom and virtual dom ? 
+what is the difference between class component and functional component ? 
+what is the difference between state and props ? 
+how can we update the state value ? 
+can we pass the data between child to parent using props ??
+what is higher order component ? ?
+what is pure component ?  ?
+Difference between controlled component and uncontrolled component ? 
+what is the use of react router ? 
+what is the advantages of using react hooks ? 
+what is arrow function ?
+what is the use of render function ? 
+explain the lifecycle component in react js ? 
+can you tell me how we can communicate from backend apis ? 
+i have asked him to write the code to communicate with backend apis ? 
+i have asked him to write the program to sort the array in asc order?
