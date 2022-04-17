@@ -1,0 +1,6 @@
+
+Mock Full Stack->  Challenge
+
+
+Implementation : Create a simple Buddy List with add & delete functionalities
+Currying function
