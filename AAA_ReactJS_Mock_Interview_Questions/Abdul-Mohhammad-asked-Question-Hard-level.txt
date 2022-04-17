@@ -1,0 +1,16 @@
+React-> Hard Level
+
+
+1. What is VDOM -> Answered 
+2. What are the major features of React? -> answered 
+3. What is reconciliation in react (Diffing Algorithm) -> answered
+4. What is JSX -> Partially answered 
+5. What does a react component returns -> answered 
+6. What are props in react -> answered 
+7. What is state -> answered 
+8. Use of Keys in react Component ->Partially   answered 
+9. Life Cycle of a Component -> answered 
+10 . What is hook and what is the use of it -> answered 
+11. How to achieve lifecycle methods behavior in functional components ->  not answered 
+12.  React Router -> not answered 
+13. Implement a simple Color picker -> 
