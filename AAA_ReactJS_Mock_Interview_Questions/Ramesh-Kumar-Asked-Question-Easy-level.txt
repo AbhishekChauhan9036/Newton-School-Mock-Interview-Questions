@@ -1,0 +1,66 @@
+React Mock-> Easy Level
+
+
+
+
+What is web development? (Yes)
+
+What is react? (Ans)
+
+Why react is diff then other framework?
+
+What is spa ? (Ans)
+
+How do we create react apps?  (Ans)
+
+What do you meant by component?  (No)
+
+What are diff type of component (No)
+
+What is diff between class/function component (Yes) ?
+
+What is diff between stateful vs stateless ? (No)
+
+What is diff between pure and impure component? (No)
+
+What is diff between real vs virtual dom.  (partially)
+
+Have you worked with Hooks, different type of hooks?  (No)
+
+What is higher order component?  (No)
+
+What is diff between props and state? (partially)
+
+How does it helps to improve performance? (No)
+
+Have you worked with react-router?  (Yes)
+
+How do we configure react router? (Yes)
+ 
+How  to share data across multiple component  (Yes)
+
+What is fragment? (No)
+
+Why we use jsx? (partially)
+
+What is contextapi? (No)
+
+Why we use redux? ()
+
+What are diff key things of redux?
+
+Why we use js?
+
+What are data types in js?
+
+What is diff null & undefined?
+
+What is object?
+
+Create a component to render below data in form of table.
+
+const data = [
+    { name: "thing two", id: 1 ,  list = [ 'abc' , 'xyz'] },
+    { name: "thing one", id: 2,  list = [ 'abc' , 'xyz']},
+    { name: "thing Three", id 3,  list = [ 'abc' , 'xyz']}
+]
