@@ -1,0 +1,6 @@
+DSA 3-> Challenge Level
+
+
+1. Coding program to move all zeroes to end, in-place and without sorting [Attempted, correct, need to look at optimizing]
+2. Coding program to rearrange array based on constraints [Attempted, correct]
+3. Coding program to find the occurrences of an element in an array based on constraints [Attempted, correct]
