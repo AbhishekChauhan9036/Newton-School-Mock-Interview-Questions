@@ -1,0 +1,11 @@
+DSA 1-> Challenge Level
+
+
+-Find all triplets with zero sum.
+Input: {1, 7, 8, 3, -4, -5, -2, 4 }
+Output: {1, 3, -4}, {7, -5, -2}, {1, 3, -2}
+
+-Find a pair with given sum in a Balanced BST
+Input: 15, 10, 20, 8,  12, 16, 25
+K=20
+Output: 8, 12
