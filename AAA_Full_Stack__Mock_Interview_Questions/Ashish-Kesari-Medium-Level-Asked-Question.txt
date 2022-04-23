@@ -1,0 +1,8 @@
+MOCK FULL STACK-> Medium Level
+
+What is DOCTYPE in HTML? - Incorrect Answered
+What are semantic tags? - Answered
+What is the box model in CSS? - Answered
+What are ARIA attributes in HTML? - Not Answered
+What is closure in JS - Answered
+Simple HTML form-based question . - Implemented
