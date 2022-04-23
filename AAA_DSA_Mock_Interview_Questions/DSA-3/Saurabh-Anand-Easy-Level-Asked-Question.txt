@@ -1,0 +1,4 @@
+DSA 3-> Easy Level
+
+Sum of all numbers till n.
+Sum of all odd numbers till n. using recursion
