@@ -1,0 +1,18 @@
+Mock Full Stack-> Easy Level
+
+What do you understand by Js? [Answered] 
+In how many ways can we position an element ?[Answered] 
+Difference between display:none and visibiliy:hidden. [Partially Answered]
+What is DOM? [Partially Answered] 
+1 advantages and 1 disadvantage of Css.[Partially Answered] 
+What is Css box model? [Answered] 
+What is the difference between margin and border?[Answered]
+What are pseudo classes?.[Partially Answered]  
+Difference between let,var and const. .[Partially Answered] 
+What is temporal dead zone?.[Not Answered] 
+Explain closures with an example.[Partially Answered] 
+Explain hoisting with an example [Partially Answered] 
+
+Coding
+Create 3 button and display them on the center of the web page. 
+Click on 1 button to increase counter. Click on another to decrease the counter. Click on reset button to reset the counter to 0.  [Answered but with many hints]
