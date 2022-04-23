@@ -1,0 +1,7 @@
+Mock Full Stack-> Hard Level
+
+Questions asked were :-
+
+1) Asked him questions mainly from HTML , CSS and advanced javascript related questions.
+
+2) task to create a screen using grid layout. I gave him the task to find the frequency of the every character.
