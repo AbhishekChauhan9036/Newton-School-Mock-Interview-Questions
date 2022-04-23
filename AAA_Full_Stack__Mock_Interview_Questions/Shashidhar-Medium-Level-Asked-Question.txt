@@ -1,0 +1,15 @@
+Mock Full Stack-> Medium Level
+
+1)Explain what is JS Engine  -- Answered partally 
+2)Explain Event Loop, Callback queue ,call stack all work  together with set interval()-- Need to improve clarity 
+3)Explain what are promises  -- NO knowledge
+4)Explain the use case of the promise  -- wrong
+5)Explain What is asynchronous    -- wrong 
+6)Explain Async and await  -- Not answered
+7)Explain callstack with below example  -- partially answered no clarity 
+function sumAndMulti(a,b,c){
+let k = a+b;
+let l = k*c;
+return l;
+}
+8)Discussed on how to improve 

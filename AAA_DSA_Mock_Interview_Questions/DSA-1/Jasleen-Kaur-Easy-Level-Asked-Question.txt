@@ -1,0 +1,7 @@
+DSA1-> Easy Level
+
+Sorting? Different sorting algorithms?
+Different techniques of Searching?
+
+Implement merge sort
+Implement binary search

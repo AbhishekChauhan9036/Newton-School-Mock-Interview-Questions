@@ -1,0 +1,5 @@
+DSA1-> Medium Level
+
+1. Find the pairs in the array which sums to the target value
+2. Given an array which contains 0s, 1s and 2s only, sort the array
+3. Difference between quick sort and merge sort
