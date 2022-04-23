@@ -1,0 +1,11 @@
+DSA2->Medium Level
+
+What are data structures?
+What are algorithms?
+Diff b/w Linkedlist and array?
+basic operations of stack and usecases?
+basic operations of queue and usecases?
+
+https://leetcode.com/problems/maximum-sum-circular-subarray/
+
+https://leetcode.com/problems/valid-parentheses/
