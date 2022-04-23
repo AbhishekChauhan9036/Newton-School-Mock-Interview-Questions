@@ -1,0 +1,24 @@
+MOCK React-> Easy Level
+
+1. OverView of React js ---- answered.
+2. how to create a react application and requirements? --- answered.
+3. what things do you see things when you first create react application --- answered. 
+4. what is the package.json and node modules file consist of --- answered.
+5. index.js in react application ---- answered.
+6. does the browser understand JSX directly ? ---- answered. corrected himself after cross questioned.
+7.   what is JSX in reactjs --- answered. 
+8.  A state in react application? ---- answered.
+9. A props in react application? ---- answered.
+10. can we update the state directly --- answered. 
+12. why do we use className instead of class in react js? ---  answered. 
+13. life cycle component Phases --- answered. 
+14. methods inside mounting phase --- answered
+15. what do you mean by rendering --- answered.  
+16.  what do you mean by re-rendering --- partially answered. 
+17. how do you handle an event in react js  --- not answered. 
+18. Describe about Virtual Dom and real DOM? --- answered.
+19. why is the "key" prop used in lists in react js --- not answered.
+20. how do you handle an event in react js  ---answered. 
+21. how do you pass data from child to parent, and child to a child --- answered.
+22. how do you pass data from child to parent, and child to a child --- answered.
+23. what is conditional rendering? --- answered.
