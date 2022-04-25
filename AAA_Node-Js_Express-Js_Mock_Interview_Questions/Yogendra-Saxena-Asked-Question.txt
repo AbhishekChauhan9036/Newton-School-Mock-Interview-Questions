@@ -1,0 +1,8 @@
+Mock Node JS , Express JS-> Easy Level
+
+what is nodejs
+what is the difference bwrween module.exports and exports
+what is package.json file
+how to write npm start script
+how to run scripts
+create simple  express server
