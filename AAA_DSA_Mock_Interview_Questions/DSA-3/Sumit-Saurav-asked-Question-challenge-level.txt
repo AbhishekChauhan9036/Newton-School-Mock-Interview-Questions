@@ -1,0 +1,11 @@
+DSA 3-> Challenge Level
+
+1. Introduction
+
+2. Problem:-
+WAP to find maximum water we can trap.
+Ref: https://leetcode.com/problems/trapping-rain-water/
+
+3. Problem:-
+WAP to find the maximum profit we can earn in stock market.
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
