@@ -1,0 +1,7 @@
+Mock nodejs -> Easy Level
+
+middlewares -0
+event loop
+url parsing
+asyncronous and single threaded nodejs
+url parsing
