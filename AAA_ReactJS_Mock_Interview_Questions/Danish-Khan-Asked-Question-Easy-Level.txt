@@ -5,4 +5,4 @@ Mock ReactJs-> Easy Level
 - Walk me through the main phases of the React Lifecycle ? (partially answered, explanation could have been better)
 - State Vs Props. ( answered, could have been better )
 - Display date and time on click of a button. (Completed the task)
-- Change the background color of a div.( Approach was correct ).
+- Change the background color of a div.( Approach was correct )....
