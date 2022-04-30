@@ -1,0 +1,15 @@
+React-> Easy Level
+
+What is React? Explain its features.
+what is virtual dom?
+What is JSX?
+Can I write if else condition in JSX?
+Why should component names start with capital letter?
+What are state and props in React? Give example with coding.
+What are the various lifecycle method names?
+What is default in export statement?
+What are React Hooks?
+What are the rules of using hooks?
+What is React Fragments?
+Why React uses className over class attribute?
+Differentiate between stateful and stateless components.

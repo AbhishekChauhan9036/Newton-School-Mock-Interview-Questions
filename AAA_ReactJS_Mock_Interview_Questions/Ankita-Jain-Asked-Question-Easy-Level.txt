@@ -1,0 +1,10 @@
+React (react)-> Easy Level
+
+What are the pros of using React? - Answered
+What is Virtual DOM? - Answered
+What are props & states in react?  - Answered
+Which of them is mutuable? - Answered
+ What’s the importance of key? - Not answered
+What are the different phases of the component Lifecycle? - Answered partially
+
+Coding question - Make a counter program. One cross question around it.
