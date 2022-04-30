@@ -1,0 +1,12 @@
+Mock -> React Js-> Easy Level
+
+Why we use react
+What is JSX
+Virtual DOM
+• reconciliation process
+• what is state and props –
+• functional component vs class component
+• Lifecycle methods in react
+What is fragments
+•Controlled vs uncontrolled component
+Counter
