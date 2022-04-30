@@ -1,0 +1,14 @@
+Mock React-> Medium Level
+
+1. use of virtual DOM in react, how it is different from a real DOM -- answered
+2. how functional component is different from class component -- answered
+2. use of react hook -- answered
+3. use of useEffect and what is the use of dependency array -- answered, not much clear
+4. conditional rendering in react -- answered not much clear
+5. how conditional rendering is different from react router -- not much clear
+5. state and props difference -- 
+6. how to pass props from child to parent component -- not much clear
+7. controlled and uncontrolled component -- answered
+8. props drilling -- answered
+9. context api usage -- answered
+10. create a task component having task name, task status , task description and estimated hour as input and there will be 2 buttons add task and clear.
