@@ -1,0 +1,9 @@
+Full Stack -> Medium Level
+
+1. high order function -- explained with example
+2. callback function and callback hell --explained
+3. difference between sync and async call -- answered
+4. what is a promise and basic structure of a promise -- answered
+5. css selector and types of css selector -- answered
+6. css flex usage -- answered
+7. create a product form which will take product name, product description, cost price and discount and it should display the selling price
