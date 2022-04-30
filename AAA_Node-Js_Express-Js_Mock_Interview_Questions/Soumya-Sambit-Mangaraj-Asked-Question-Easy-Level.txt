@@ -1,0 +1,6 @@
+Mock-Node Js,Express Js->> Easy Level
+
+How do Node.js works?
+What is an Event loop in Node.js and how does it work?
+ Explain  REPL in the context of Node.js.
+Create a GET and POST Api by using express and node js
