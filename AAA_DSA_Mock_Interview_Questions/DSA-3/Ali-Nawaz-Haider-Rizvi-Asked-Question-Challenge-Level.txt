@@ -1,0 +1,6 @@
+DSA 3-> Challenge Level
+
+1) Sum of digits using recursion
+2) Sum of even digits using recursion
+3) longest palindromic substring in string
+4)All subsets
