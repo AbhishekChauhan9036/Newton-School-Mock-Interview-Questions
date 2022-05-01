@@ -1,0 +1,16 @@
+Mock React-> Medium Level
+
+
+1. Virtual DOM in React?
+2. Fragments?
+3. JSX?
+4. State and props?
+5. setState()?
+6. Difference between class and functional component?
+7. Difference between controlled and uncontrolled components?
+8. life cycle methods in react?
+9. for API calls which lifecycle method is suitable?
+10. Prop drilling?
+11. context API?
+12. babel?
+13. https://dog.ceo/dog-api/documentation/?
