@@ -1,0 +1,16 @@
+React -> Medium Level
+
+
+-what are the advantages of using react ?-yes
+-what is virtualDom- yes
+-what are props -partially answered
+- what is prop Drilling-No
+-Context Api-No
+-what is jsx  -yes
+-What are fragments?-yes
+-What is a controlled and uncontrolled component? -No
+-what is React Routers -No
+-what are Hooks -yes
+-What is pure component - Yes
+-What is the difference between a function component and class component?-partially answered
+ -https://jsonplaceholder.typicode.com/users by using the api create a table
