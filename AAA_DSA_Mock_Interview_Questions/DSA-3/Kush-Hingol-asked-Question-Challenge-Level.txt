@@ -1,0 +1,17 @@
+DSA 3-> Challenge Level
+
+1. What is recursion
+2. What are advantages and disadvantages of recursion
+3. What is dynamic programming
+4. What is Different approaches in dynamic programming
+5. What is top down approach in dynamic programming
+6. What is bottom up approach in dynamic programming
+
+DSA
+Given two strings word1 and word2, return the minimum number of operations required to convert word1 to word2.
+
+You have the following three operations permitted on a word:
+
+Insert a character
+Delete a character
+Replace a character
