@@ -2,8 +2,8 @@ React -> Easy Level
 
 Q. What is React? and Why we React ? 
 Q. What is current Version of React (v18.0);
-Q. what is virtual Dom ?
-Q. What is JSX?
+Q. what is virtual Dom ?.
+Q. What is JSX?.
 Q. what is Props and State?
 Q. Class Components Life Cycle? 
 Q. StateFull and State Less Component?
