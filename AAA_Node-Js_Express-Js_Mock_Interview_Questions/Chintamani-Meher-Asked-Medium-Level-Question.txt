@@ -1,0 +1,20 @@
+
+Node Js,Express JS->Medium Level
+
+
+- What do you know all about NodeJs.
+- Why we use Node.Js?
+- In which Language Node Js is written?
+- What is the difference between NodeJs and JavaScript.
+- Do you know Node.js REPL (Read Evaluate Print Loop).
+- What is the command you are using to run REPL?
+- What is Module in Node.Js and what are the different types?
+- How do you create a Server in Node.Js?
+- What is Middleware? Explain by writing an example.
+- What is an EventEmitter in Node.js? Write a sample code and explain.
+- Define an error-first callback?
+- What is the use of Package.json file?
+- How do you install, update and delete a dependency?
+- How many types of API functions are there in Node.js?
+- What is the difference between PUT and PATCH method.
+- What is event loop in Node Js?
