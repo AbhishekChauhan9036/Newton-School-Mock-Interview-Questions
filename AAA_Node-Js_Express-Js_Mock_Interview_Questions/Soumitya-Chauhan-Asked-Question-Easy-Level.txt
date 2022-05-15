@@ -3,7 +3,7 @@ Node JS, Express Js-> Easy Level
 
 
 QWhat is Node.js? Where can you use it?
-Q Why use Node.js?
+Q Why use Node.js?.
 QHow does Node.js work
 QWhy is Node.js Single-threaded?If Node.js is single-threaded, then how does it handle concurrency?
 QExplain the difference between frontend and backend development?
