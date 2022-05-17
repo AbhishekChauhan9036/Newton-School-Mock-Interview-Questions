@@ -1,0 +1,23 @@
+FULL STACK MOCK-> Challenge Level
+
+HTML
+Are html tags and elements different?
+Can you tell me the different tags?
+can tell me the different types of lists?
+I asked him to design the html form 
+
+CSS
+What are the different types of Selectors in CSS?
+Different types of CSS?
+What are the different types of Selectors in CSS?
+Asked him how you will link your CSS file to html file
+What is the Box model in CSS? 
+
+JAVASCRIPT
+What do you know about JAVASCRIPT?
+let ,var ,const
+var x = 24;
+var y = "Hello" o/p x+y 
+What is the difference between == and ===?
+Told him to print fibonacci series
+Immediately Invoked function
