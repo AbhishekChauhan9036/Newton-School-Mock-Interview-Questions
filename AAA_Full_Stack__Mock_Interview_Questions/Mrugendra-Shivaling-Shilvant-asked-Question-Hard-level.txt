@@ -1,0 +1,4 @@
+FULL STACK MOCK -> Hard Level
+
+1) Create an input tag of type text which accepts numbers in comma separated format and calculate the sum for the numbers
+2) Center the div tag wrt body tag
