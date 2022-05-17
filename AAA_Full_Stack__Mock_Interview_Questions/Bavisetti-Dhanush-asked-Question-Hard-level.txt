@@ -1,0 +1,18 @@
+FULL STACK MOCK-> Hard Level
+
+
+1. What are different web storages in html5
+2. add an objecr in a local storage and access and display it
+3.  Embed a website in a webpage
+4. Create a nested div and rotate the innermost div to 45deg right
+5. Above question with onclcik action
+6. const promise = new Promise((resolve, reject) => {
+    reject(Error('Some Error Occurred'));
+  })
+  .catch(error => console.log(error))
+  .then(error => console.log(error));
+7. const promise = new Promise((resolve, reject) => {
+  reject(Error('Some error occurred'));
+})
+promise.catch(error => console.log(error.message));
+promise.catch(error => console.log(error.message));
