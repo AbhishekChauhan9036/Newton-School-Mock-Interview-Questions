@@ -1,0 +1,8 @@
+FULL STACK Mock -> Hard Level
+
+-what is Html -yes
+-what are void tags -practically answered
+-what is semantic tags- yes
+-css positions -practically answered
+-what is difference  between promises and call backs -practically answered
+-create a todo list -no
