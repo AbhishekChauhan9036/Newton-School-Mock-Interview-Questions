@@ -1,0 +1,8 @@
+Node Js,Express JS-> Medium Level
+
+
+What is the difference between Node.js and JavaScript? 8/10
+ Why is Node.js single-threaded? 6/10
+What is the distinction between the Asynchronous and non-blocking function? 6/10
+What is EXPRESS JS? 7/10
+Create a node environment to listen on port:2010 and load any sample HTML file on the port
