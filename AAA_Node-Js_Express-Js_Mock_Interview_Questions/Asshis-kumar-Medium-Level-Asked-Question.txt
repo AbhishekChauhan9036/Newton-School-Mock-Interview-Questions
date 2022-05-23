@@ -1,6 +1,6 @@
 Node JS,Express JS-> Medium Level
 
-what is a cookie
+what is a cookie..
 is HTTP a stateful or stateless protocol
 what is callback hell
 difference between get the post and put request
