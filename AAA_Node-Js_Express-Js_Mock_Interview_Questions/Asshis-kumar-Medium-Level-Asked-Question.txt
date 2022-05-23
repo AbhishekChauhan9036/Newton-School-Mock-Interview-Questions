@@ -5,7 +5,7 @@ is HTTP a stateful or stateless protocol..
 what is callback hell..
 difference between get the post and put request..
 what is an event loop..
-rate limiting
+rate limiting..
 what is an npm module
 what is a middleware in express
 types of middleware in express
