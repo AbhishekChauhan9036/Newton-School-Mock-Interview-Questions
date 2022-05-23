@@ -1,7 +1,7 @@
 DSA 1-> Easy Level
 
 1.What is Hashing -> Answered..
-2. What is the best algo for sorting . Why its best and what is the best avg and worst case time complexcity -> answered
+2. What is the best algo for sorting .. Why its best and what is the best avg and worst case time complexcity -> answered
 3. What is Array -> Answered
 4. Can we store diff data type in one array-> answered
 5. [Easy] : Largest Number At Least Twice of Others 
