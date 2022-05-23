@@ -2,8 +2,8 @@ DSA 1->Hard Level
 
 
 
-1. Write a .program to check weather a number is prime or not - done.
-2. [easy] : https://leetcode.com/problems/counting-words-with-a-given-prefix/ - done
+1. Write a .program to check weather a number is prime or not - done..
+2. [easy] : https://leetcode.com/problems/counting-words-with-a-given-prefix/ - done.
 3.[easy] : print second max frm given array - done.
 4. Explain the logic of quick sort.
 5 . What is diff btw primitives and non primitive in java.
