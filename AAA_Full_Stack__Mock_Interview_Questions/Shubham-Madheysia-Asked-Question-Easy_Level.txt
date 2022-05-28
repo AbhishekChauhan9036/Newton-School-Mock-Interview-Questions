@@ -1,0 +1,3 @@
+Full Stack Mock-> Easy Level
+
+Create an 8 * 8 chessboard UI using html, css and js. Each box size will be 20px*20px. Write modular code so that it is easier to extend. Modular means reusable and less of repetition
