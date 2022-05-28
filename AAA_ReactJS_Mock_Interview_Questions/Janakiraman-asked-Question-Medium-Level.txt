@@ -1,0 +1,14 @@
+React-> Medium Level
+
+
+Props drilling in details 
+Life cycle methods 
+State and props
+Hooks concept
+What does usestate do ? 
+virtual  dom 
+Class based components vs functional components
+Implement todo list
+ShouldcomponentUpdate use case ?
+How is React.memo different from useMemo
+react-redux vs context API vs passing props
