@@ -7,4 +7,4 @@ DSA 1->Hard Level
 3.[easy] : print second max frm given array - done.
 4. Explain the logic of quick sort.
 5 . What is diff btw primitives and non primitive in java.
-6 . what is diff btw stack and queue..
+6 . what is diff btw stack and queue...

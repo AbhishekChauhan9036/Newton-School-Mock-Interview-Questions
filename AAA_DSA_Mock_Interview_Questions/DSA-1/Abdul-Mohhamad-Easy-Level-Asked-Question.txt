@@ -8,4 +8,4 @@ DSA 1-> Easy Level
 https://leetcode.com/problems/largest-number-at-least-twice-of-others/ 
 : Done (With some hints)
 6. [Easy] : . Two Sum
-https://leetcode.com/problems/two-sum/ : answered.
+https://leetcode.com/problems/two-sum/ : answered..
